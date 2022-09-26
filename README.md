@@ -1,8 +1,10 @@
 # Syshelper
 An application to assist in troubleshooting and maintain systems
 
+[![Rust](https://github.com/cmarquis/syshelper/actions/workflows/rust.yml/badge.svg)](https://github.com/cmarquis/syshelper/actions/workflows/rust.yml)
+
 ## Development
-The application is written in Rust.
+The application is written in Rust. As such a local rust development environment must be setup.
 
 ## Usage
 The application can be compiled yourself or a pre-compiled binary can be downloaded from GitHub releases.
